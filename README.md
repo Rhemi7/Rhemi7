@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Remi
 ==================================================================================================================================
 
-Mobile Engineer
+Mobile Engineer || Flutter Engineer || Android Engineer
 ---------------
 
 A Software developer with 4+ years experience in building mobile applications including 3+ years for cross-platform (flutter) applications, equally experienced in Android development using Kotlin. I have experience building responsive mobile applications across various pixel sizes, and writing clean and scalable code in a test-driven (TDD) environment.
