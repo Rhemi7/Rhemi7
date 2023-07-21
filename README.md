@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile Engineer
 ---------------
 
-A Software developer with 4+ years experience in building mobile applications including 3+ years for cross-platform (flutter) applications. I have experience building responsive mobile applications across various pixel sizes, writing clean and scalable code in a test-driven (TDD) environment.
+A Software developer with 4+ years experience in building mobile applications including 3+ years for cross-platform (flutter) applications, equally experienced in Android development using Kotlin. I have experience building responsive mobile applications across various pixel sizes, and writing clean and scalable code in a test-driven (TDD) environment.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [adelefatai@yahoo.com](mailto:adelefatai@yahoo.com)
